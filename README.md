@@ -30,9 +30,7 @@ y name is George Vasilakis and I'm a 2nd year student in Web and Mobile Developm
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/gvasilakiss/gvasilakiss">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvasilakiss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
 
 <a href="https://github.com/gvasilakiss/gvasilakiss">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gvasilakiss&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="gvasilakiss's GitHub Stats" />
