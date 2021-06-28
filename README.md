@@ -21,8 +21,7 @@ Almost, repository private!
 
 
 
-<a href="https://github.com/MarkUp4/MarkUp4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarkUp4&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="MarkUp4's GitHub Stats" />
+<a href="https://github.com/MarkUp4/MarkUp4"
     <img align="center" src="https://www.digitalhrtech.com/wp-content/uploads/2019/12/organizational-development.jpeg" alt="MarkUp4's GitHub Stats" />
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarkUp4" alt="MarkUp4" /> </p>
