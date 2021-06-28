@@ -16,15 +16,6 @@ Almost, repository private!
 
 
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
